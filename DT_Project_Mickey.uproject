@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "CommonUI",
-			"Enabled": true
-		},
-		{
 			"Name": "OpenImageDenoise",
 			"Enabled": false
 		},
